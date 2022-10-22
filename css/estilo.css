@@ -31,6 +31,10 @@ ul > li {
     margin-left: 10px;
 }
 
+section {
+    height: 100vh;
+}
+
 section > article > p {
     padding: 20px;
     
@@ -38,5 +42,10 @@ section > article > p {
 
 section > h1 {
     padding-top: 20px;
+    text-align: center;
+}
+
+footer {
+    padding-bottom: 10px;
     text-align: center;
 }
