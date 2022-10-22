@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav > ul {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+h1 {
+    margin: 10px;
+
+}
+
+ul > li {
+    list-style: none;
+    margin-left: 10px;
+}
